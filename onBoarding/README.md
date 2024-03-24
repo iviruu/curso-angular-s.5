@@ -6,7 +6,7 @@ Ejercicio para mejorar habilidades con Angular 17
 
 ## Demo 🚀
 
-Puedes ver la demostración de la aplicación en (https://github.com/iviruu/curso-angular_sprin5.git).
+Puedes ver la demostración de la aplicación en (https://github.com/iviruu/curso-angular-s.5.git).
 
 ## Características ✨
 
